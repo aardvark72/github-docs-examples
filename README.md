@@ -12,7 +12,7 @@ Because it allows others to copy and paste their code to replicate or research i
 
   
 
-``` ipython
+``` python
 function generateFibonacci(n) {
   let fibonacciSeries = [];
   let a = 0;
